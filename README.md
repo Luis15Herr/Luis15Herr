@@ -1,8 +1,8 @@
 ### Hello World, I'm Luis Herrera 👋
 I am a frontend developer from Venezuela
 
-- 🔭 I’m currently working on multiple frontend projects using Wordpress.
-- 🌱 I’m currently learning Vue.js.
+- 🔭 I’m currently working on multiple frontend projects using Wordpress and Vue.js.
+- 🌱 I’m currently learning Node.js.
 - ⚡ I love to play football and videogames.
 
 
